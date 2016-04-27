@@ -1,0 +1,61 @@
+ 
+
+e metering mode (on-camera or in capture window) to partial metering mode
+
+013 Μ3111131 p. 81) which meters only the central 8ss 011110 03111013 11010 01 view,
+
+ng anything outside the gray card. Τ110 10011 101 13311131 metering is a rectangle with an
+circle inside it.
+
+e White Balance to 'Custom' on the camera, or onscreen via capture window‚ (icon is
+ow wedges with a dot in the center, see Μ3111131, 13. 61, 01 ΕΟ Μ3111131, p. 38).
+
+· capture windovv‚ select File --> Preferences --> Remote Shooting (ΕΗ Μ3111131, 13135.
+)‚ checl< 'Save also on camera's memory 0310· 50 11131 1110 next shot will be recorded
+e CF card (necessary 101 setting white balance).
+
+Ρ10101011005, 3110 501 1110 destination directory (via File --> Ρ10101011005 -->
+
+11311011 Ρο1001) 10 53νο images to the desired 101001.
+
+0 --> Ρ10101011005 --> Linl<ed Software, set Digital Ρ11010 Ρ101055101131 (ΟΡΡ) 35 1110
+am to automatically invol<e to display the images in that directory.
+
+a sheet of paper beneath the platen glass that contains some image or text, 1001(
+
+gh the camera viewfinder‚ focus manually on the paper, then set the 10115 10 1113111131
+, ’ΜΗ Α110111311νο1γ, with the lens set to autofocus ἈΡ mode, manually press the
+ra shutter button halfvvay down - the camera will beep when it finds the focus — then
+.h to ’ΜΗ
+110 capture window, shoot an image 011110 gray (white) card. Τ110 image will be
+rded on the in-camera CF card, and will 3150 be written to the specified destination
+:tory on the computer‚ while ΟΡΡ will be brought up 011-5010011 10 0151313γ 1110 image.
+image will 1001( medium gray whether a gray or white card was used, because the
+zra's exposure meter is designed to render any scene to appear 01 average intensity in
+iuto-exposure mode.
+11001 'Save also' on memory card per above - the CF card will not be needed 101
+00111οη1 steps.
+3. 62 011110 Μ3111131, 1311511 1110 ’Μο1111“ 131111οη 011 1110 back 011110 03111013, select 'Custom
+te Balance' in the menu, and press 1110 “501’ button in the center 01 1110 1031 10131γ 0131,
+1110 1351 image taken, 01 1110 gray (white) 0310, should appear in the LCD monitor on the
+era bacl<. Select the 0011001 image, then press the 'Set' button again to implement the
+3111 white balance correction.
+igital Ρ11010 Ρ10, 501001 1110 gray (white) card image by clicking once on the raw (CRZ')
+ge, then 1011-01101( 111 1110 image to bring up the image menu, 111011 501001 ’11110“ 31 1110
+0111 01 1110 11101111 10 view the ΕΧΙΡ 0313101 1110 image, read 011 1110 shutter speed.
+:he 03111013 shooting mode to manual CM· 011 1110 mode dial).
+gray card was used, set the shutter speed to the value the camera 011050 10 01311111311γ
+>se the card. 113 white card was used, set the shutter speed initially to ll30 second.
+11001 1110 gray (white) 0310 with the given settings in 'M' mode, still at 400 ΡΡ1. Double-
+. the CRz thumbnail in DPP, and, 111100000, 501001 'View' -> ’Το01 Ρ310110’ (ΟΡΡ Μ3111131,
+Ι [13. 12 1301 Pb? viewer]) to bring up the display window showing image properties.
+central peal< 01 1110 1111011511γ histogram in the Tool Ρ310110 window (with ‘RAW”
+lay mode selected) should be sharp, and Just below the Ο.Ο Ev line, 101 3 gray card, or
+above 2.o 101 3 νν11110 0310. Confirm the white balance by selecting the “affl’‘ display
+le at the top 011110 Το01 Ρ310110 window. The separate R, G, and Β 13031(5 (individually
+0131310101 013111γ) should nearly exactly line up.
+
+ξ
+
+ 
+
